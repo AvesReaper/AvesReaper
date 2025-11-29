@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm J Sriganesh</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avesreaper&label=Profile%20views&color=0e75b6&style=flat" alt="avesreaper" /> </p>
 
-- 🔭 I’m currently working on **Steam(digital store) Clone**
+- 🔭 I’m currently working on **NIL**
 
-- 🌱 I’m currently learning **Unity and AWS**
+- 🌱 I’m currently learning **AWS, SQL, Data Engineering COncepts**
 
 - 📫 How to reach me **sriganesh2282@gmail.com**
 
